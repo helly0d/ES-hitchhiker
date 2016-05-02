@@ -1,0 +1,27 @@
+{
+  "name": "es-hitchhiker",
+  "version": "1.0.0",
+  "description": "Dependency checker for JS and ES projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/helly0d/ES-hitchhiker.git"
+  },
+  "keywords": [
+    "ES",
+    "JS",
+    "ES6",
+    "hitchhiker",
+    "dependency",
+    "graph"
+  ],
+  "author": "Marius Tulbure <helly0d@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/helly0d/ES-hitchhiker/issues"
+  },
+  "homepage": "https://github.com/helly0d/ES-hitchhiker#readme"
+}

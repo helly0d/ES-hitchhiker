@@ -23,5 +23,9 @@
   "bugs": {
     "url": "https://github.com/helly0d/ES-hitchhiker/issues"
   },
-  "homepage": "https://github.com/helly0d/ES-hitchhiker#readme"
+  "homepage": "https://github.com/helly0d/ES-hitchhiker#readme",
+  "dependencies": {
+    "glob": "7.0.3",
+    "node-source-walk": "2.1.0"
+  }
 }
